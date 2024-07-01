@@ -21,13 +21,16 @@
     <artifactId>java-client</artifactId>
     <version>7.6.0</version>
 </dependency>
-<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+
+
+
 <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
-    <version>4.19.1</version>
+    <version>3.141.59</version>
 </dependency>
+
 
 
 	<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
@@ -92,6 +95,19 @@
         <artifactId>extentreports</artifactId>
         <version>5.0.6</version>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver -->
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-chrome-driver</artifactId>
+    <version>4.20.0</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver -->
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-chrome-driver</artifactId>
+    <version>4.20.0</version>
+</dependency>
+
     
   </dependencies>
 </project>
